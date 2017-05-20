@@ -1,6 +1,6 @@
 package main
 
-import "structs/computer"
+import "github.com/golangbot/structs/computer"
 import "fmt"
 //struct with anonymous field
 type Person struct {  
